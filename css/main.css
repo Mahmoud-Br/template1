@@ -245,12 +245,16 @@ header .container ul li a {
   .services .container .col .content i {
     padding-bottom: 15px;
     margin-right: 0px;
+    text-align: center;
   }
   .services .container .col .content h3 {
     text-align: center;
   }
   .services .container .col .content p {
     text-align: center;
+  }
+  .services .container .col .content .inside-content {
+    padding-right: 0px;
   }
 }
 .services .container .col .img {
